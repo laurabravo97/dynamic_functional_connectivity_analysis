@@ -5,3 +5,5 @@ plots of results using plotly (code available, but output plots cannot be displa
 correlation coefficient between pairs of seeds across the set of sliding windows, b) variability of these connectivity values (SD) across windows. 
 In addition, indices to classify the different states of brain connectivity (i.e. connectivity patterns) were obtained: proportion of windows and Mean Dwell Time (MDT) 
 in each state, and Probability of Transition (PT) to other states to each specific one. 
+
+Statistical test to assess parametric assumptions, t-tests and Mann-Whitney non-parametric test for between-group differences using scipy. 
