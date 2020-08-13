@@ -1,4 +1,4 @@
-# dynamic_functional_connectivity_analysis
+# Dynamic resting-state Functional Connectivity Analysis
 
 Python script to obtain dynamic functional connectivity metrics, after using a sliding window approach, statistical analyses to test for differences between groups and 
 plots of results using plotly (code available, but output plots the result cannot be displayed on github). Indices obtained: a) average of the Pearson's z-transformed 
