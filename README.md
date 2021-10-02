@@ -17,8 +17,6 @@ b) Mean Dwell Time (MDT) in each state
 c) Probability of Transition (PT) from other states to each specific one. 
 
 
-Some statistical tests using scipy. 
-
 
 Data obtained from Autism Brain Imaging Data Exchange repository (ABIDE; http://fcon_1000.projects.nitrc.org/indi/abide/) [Di Martino et al., 2017; Di Martino et al., 2014]; ABIDE II  Barrow Neurological Institute repository (http://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html)
 
