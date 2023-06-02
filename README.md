@@ -1,4 +1,4 @@
-# Dynamic resting-state Functional Connectivity Analysis
+# Dynamic Functional Connectivity Analysis of resting-state fMRI data
 
 Jupyter Notebook (Python) script to obtain dynamic functional connectivity metrics, after using a sliding window approach and plots using plotly (code available, but interactive plots don't displayed on github). 
 
