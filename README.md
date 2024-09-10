@@ -5,6 +5,7 @@ If using this script please cite:
 Bravo Balsa, L., Abu-Akel, A., & Mevorach, C. (2024). Dynamic functional connectivity in the right temporoparietal junction captures variations in male autistic trait expression. Autism research: official journal of the International Society for Autism Research, 17(4), 702–715. https://doi.org/10.1002/aur.3117
 
 
+
 Jupyter Notebook (Python) script to obtain dynamic functional connectivity metrics after conducting a sliding window approach, and interactive plots using plotly. 
 
 Five connectivity states were obatined: high negative, moderate negative, low-uncorrelated, moderate positive, high positive.
